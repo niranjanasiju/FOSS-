@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/niranjanasiju/FOSS-/static/css/main.edc92b7a.css",
+    "main.js": "/niranjanasiju/FOSS-/static/js/main.fafad3c6.js",
+    "static/js/453.0863229c.chunk.js": "/niranjanasiju/FOSS-/static/js/453.0863229c.chunk.js",
+    "index.html": "/niranjanasiju/FOSS-/index.html",
+    "main.edc92b7a.css.map": "/niranjanasiju/FOSS-/static/css/main.edc92b7a.css.map",
+    "main.fafad3c6.js.map": "/niranjanasiju/FOSS-/static/js/main.fafad3c6.js.map",
+    "453.0863229c.chunk.js.map": "/niranjanasiju/FOSS-/static/js/453.0863229c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc92b7a.css",
+    "static/js/main.fafad3c6.js"
+  ]
+}
